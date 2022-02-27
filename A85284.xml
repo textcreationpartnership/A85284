@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LIX. exceptions against the Booke of common prayer.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85284</idno>
+            <idno type="STC">Wing F893</idno>
+            <idno type="STC">Thomason E49_31</idno>
+            <idno type="STC">ESTC R17158</idno>
+            <idno type="EEBO-CITATION">99860153</idno>
+            <idno type="PROQUEST">99860153</idno>
+            <idno type="VID">112262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E49[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>LIX. exceptions against the Booke of common prayer.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "may 28th 1644.".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Controversial literature</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:112262:1"/>
+            <pb facs="tcp:112262:1" rendition="simple:additions"/>
+            <head>LIX. EXCEPTIONS AGAINST THE BOOKE OF Common Prayer.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>May 28<hi rend="sup">th</hi> 1644</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Book of Common Prayer containeth in it, ſundry things that are contrary to the Word of God; For,</p>
+            <list>
+               <item>1. It appointeth a Liturgy which in the whold matter and forme thereof, is too like unto the Maſſe-booke.</item>
+               <item>2. It appointeth a Liturgy which by the length thereof, doth in many Congregations oft-times neceſſarily ſhut out Preaching, viz. When Baptiſme, the Communion, Marry<g ref="char:EOLhyphen"/>ing, Churching and Buriall concer altogether (as oft times they doe) in great Congregations.</item>
+               <item>3. It approveth of a miniſtry as lawfull which wanteth ability to preach.</item>
+               <item>4 It containeth in it ſundry popiſh errors, or ſuch things (at leaſt) as tend ſtrongly to the maintenance of popiſh ſuperſtition. As,
+<list>
+                     <item>1. The miniſter of the Goſpel is throughout the book, cal<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Prieſt.</item>
+                     <pb n="2" facs="tcp:112262:2"/>
+                     <item> 2. It comm<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h the obſervation of many Holy-dayes, and requireth the miniſter to bid them, and preferreth them (in ſome ſort) before the Lords day, For the ordinary Leſ<g ref="char:EOLhyphen"/>ſons appointed in the Calender for the Lords day, muſt give place to the proper Leſſons of that holy-day that falls on the Lords day, and Athanaſius Creed is appointed to be read only upon certaine Holy dayes.</item>
+                     <item>3. It appointeth Saints Eves to be kept as faſting dayes, and commandeth the Miniſter to bid the<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rſo.</item>
+                     <item>4. It appointeth the time of Lent to be kept as a religious faſt, and pervetteth both the example of Chriſts faſt, and ſundry other places of Scripture, to the juſtifying thereof. It preſcribeth a ſpeciall ſervice for the firſt day of Lent, and appointeth the Commination and other ſpeciall prayers and exhortations tending to repentance, to bee read upon that day only, and it affirmeth that, It was a godly diſcipline in the Primative Church, (the reſtoring whereof is much to bee wiſhed) that notorious ſinners at the beginning of Lent, were put to open Penance.</item>
+                     <item>5. The weeke before Eaſter onely of all the weekes in the yeare, hath preſcript ſervice appointed with Epiſtles and Goſpels for every day, as ſolemne, as the holy dayes are wont to have.</item>
+                     <item>6. The Friday before Eaſter is called Good Friday, and hath three ſpeciall Collects appointed for it, as hath no one day of the yeare beſides.</item>
+                     <item>7. It commandeth every Pariſhioner ſhall receive the Communion at Eaſter.</item>
+                     <pb n="3" facs="tcp:112262:2"/>
+                     <item> 8. It appointeth the Congregation to pray that God would give them that, which their prayers dare not preſume to aske.</item>
+                     <item>9. The Catechiſme (in delivering the number of the Sacra<g ref="char:EOLhyphen"/>ments) ſaith, there are two onely as generally neceſſary to ſalvation.</item>
+                     <item>10. Theminiſter (as if Baptiſme were of abſolute neceſſity) is allowed not onely to Baptzie in private, but to uſe the words of Inſtitution, and the element, though he have not ſo much time as to ſay the Lords Prayer.</item>
+                     <item>11. The Miniſter is allowed and directed to adminiſter the Communion to one ſicke of the Plague, though there be not one more to communicate with him.</item>
+                     <item>12. Interrogatories in Baptiſme are miniſtred unto infants (as if repentance and faith were requiſit in them, before they may be baptized) and it is ſaid in the Catechiſm, That Infants performe faith and repentance by the Sureties who promiſe and vow them in their names.</item>
+                     <item>13. Every child baptized as if out ward Baptiſm did conſet grace to all that receive it) is ſaid to be regenerate and in the Catechiſme it is ſaid, that we are by Baptiſme made the children of grace, and (in the Rubrick immediatly before catechiſm) that is certain by Gods word, that children being baptized have all things neceſsary for their ſalvation, and be undoubtedly ſaved.</item>
+                     <item>14. The Miniſter is appointed to command that children be brought to the Biſhop to be Conſumed, yea none may be admitted to the Co<g ref="char:cmbAbbrStroke">̄</g>mmunion till <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e have b<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Confirmed. In Confirmation children are ſaid to be certified thy the ſigne
+<pb n="4" facs="tcp:112262:3"/>of the impoſition of the Biſhops hand) of Gods favour and gracious goodneſſe towards them. And Confirmation is ſaid to be miniſtred to them that are baptiſed, that by impoſition of hands and prayer, they may receive ſtrength and defence againſt all tentations to ſin, and the aſsaults of the w<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rld and the divell. Yea confirmation is dignified above Chriſts Sacraments, in that none may ad<g ref="char:EOLhyphen"/>miniſter it but a Biſhop. And it is ſaid to be adminiſtred after the example of the holy Apoſtles, &amp; warrant therby.</item>
+                     <item>16. It ſaith that Matrimony doth ſignifie unto us the miſticall union betwixt Chriſt and his Church, and that God did conſecrate the ſtate of Matrimony to ſuch an excellent myſtery, that it is ſig<g ref="char:EOLhyphen"/>nified and repreſented the ſpirituall marriage and unity betweene Chriſt and his Church. And the ring in Matrimony is appoin<g ref="char:EOLhyphen"/>ted to be laid on the Book, and the Prieſt to take it and de<g ref="char:EOLhyphen"/>liver it to the man, and to teach him to ſay thus, With this Ring I thee wed, &amp;c. And the prieſt is appointed in his prayer unto God to ſay, That the Ring is a token and a pledge of the Covenant and vow made in Marriage.</item>
+                     <item>
+                        <p>16. The Prieſt is appointed to abſolve every ſick perſon (that findeth his conſcience troubled with any weighty ſinne, and maketh ſpeciall confeſſion of it) in this forme, By Chriſts authority committed to me, I abſolve thee from all thy ſinnes in the name of the Father, &amp;c.</p>
+                        <p>And in another place the people are appointed to come to the miniſter to receive the benefit of abſolution.</p>
+                     </item>
+                     <item>17. Burial is made a miniſterial duty, and a preſcript Litur<g ref="char:EOLhyphen"/>gy is appointed for it to be ſaid at the grave, and we are ap<g ref="char:EOLhyphen"/>pointed to pray thus. That God would haſten his kindome, that
+<pb n="5" facs="tcp:112262:3"/>we with this our brother, and all other departed in the true faith of thy holy Name, way have our perſit conſummation and bliſſe, hoth in body and ſoule.</item>
+                     <item>18. Churching of women is commanded and made a mi<g ref="char:EOLhyphen"/>niſteriall duty, and a preſcript Liturgy appointed for it, and the woman is appointed to kneele neele to the place where the table ſtands, and the Prieſt to ſtand by her, when he Churcheth her, and that ſhe muſt offer her accu<g ref="char:EOLhyphen"/>ſtomed offrings.</item>
+                     <item>19. Both in that place and elſe where, in the booke, offring dayes and an Offertory are allowed.</item>
+                     <item>20. In the Catechiſme it is ſaid, That the Sonne of God hath redeemed all mankind, taking that phraſe in a larger ſenſe<g ref="char:EOLhyphen"/>then for all the Elect, as is evident by the words immediat<g ref="char:EOLhyphen"/>ly going before, and following after.</item>
+                  </list>
+               </item>
+               <item>5. It appointeth ſundry things that end directly to the profanation of the holy Sacraments either by proſtituting them to unworthy perſons, or adminiſtring them unre<g ref="char:EOLhyphen"/>verently. For,
+<list>
+                     <item>1. All Prieſts &amp; Deacons in Collegat Churches are com<g ref="char:EOLhyphen"/>manded to receive the Communion, every ſunday at leaſt.</item>
+                     <item>2. Every Communicant may chooſe whether he wil give notice of his purpoſe to receive, till after the beginning of morning prayer on the ſame day that he is to Co<g ref="char:cmbAbbrStroke">̄</g>municate.</item>
+                     <item>3. All new married perſons muſt receive the Communion the ſame day they are married.</item>
+                     <item>4. Private Baptiſme in ſome caſes is allowed to be admi<g ref="char:EOLhyphen"/>niſtred without any prayer, doctrine, or exhortation.</item>
+                  </list>
+               </item>
+               <item>6. It avoucheth ſundry, manifeſt, and apparant untruths.
+<pb n="6" facs="tcp:112262:4"/> As
+<list>
+                     <item>1. That in the Calender (ſo much as may be) the reading of the Scripture is ſo ſet forth, that all things might be done in order with<g ref="char:EOLhyphen"/>out breaking of one piece from another.</item>
+                     <item>2. That nothing (by this book) is ordained to be read, but the very pure word of God the holy Scripture, or that mhich is evidently grounded upon the ſame.</item>
+                     <item>3. That this booke is ſo plain and perfect, as that the Curates ſhall need no other books for their publike ſervice, but this booke and the Bible, and yet it injoynes him to read Homilies.</item>
+                     <item>4. That all our Ceremonies pertaine to edification, and are apt to ſtirre up the dull mind of man, to the remembrance of his duty to God, by ſome notable and ſpeciall ſignification.</item>
+                     <item>5. It calleth certain chapters of Eſay, Ieremy, loel and the Acts, Epiſtles.</item>
+                     <item>6. It appoints us to ſay every day, from Chriſt<g ref="char:EOLhyphen"/>mas day, to Newyeares day in a Collect, that Chriſt was born this day And upon Whitſunday, Munday and Tueſday, God which on this day haſt taught, &amp;c.</item>
+                     <item>7. It affirmeth that Michael (mentioned, Rev. 12.) is a crea<g ref="char:EOLhyphen"/>ted Angel.</item>
+                     <item>8. It peremptorily affirmeth ſundry things that (if they be not manifeſtly falſe) are doubtfull. As,
+<list>
+                           <item>1. That the Infants whom Herod murthered, were inno<g ref="char:EOLhyphen"/>cents, and Gods witneſſes; and that they confeſſed his praiſe by dying.</item>
+                           <item>2. That there are Archangels.</item>
+                           <item>3. That every one that is buried is a brother, that God hath taken to himſelfe his ſoule, that we commit his body to the ground in ſure and certaine hope of reſurrection to eternall life.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>8. It appointeth ſundry things that bring great diſorder and confuſion unto the worſhip of God. As
+<list>
+                     <pb n="7" facs="tcp:112262:4"/>
+                     <item>1. That the people ſhould ſay after the Miniſter, whole ſentences of Prayer and Scriputre; yea the Miniſter one part of the prayer, and the people another. And in ſundry parts of the Letany, the people make the prayer, and the miniſter only directs them what to pray for.</item>
+                     <item>2. That the Miniſter is appointed to ſay ſome prayers kneeling, ſome ſtanding, ſome in one part of the Church, ſome in another.</item>
+                     <item>3. That one of the people is allowed, to make the generall confeſſion of ſinnes at the Communion in the name of the whole Congregation.</item>
+                     <item>4. That at ſome one meeting of the Aſſembly the Lords prayer is to be repeated eight ſe<g ref="char:EOLhyphen"/>verall times, and Gloria patri twelve times.</item>
+                     <item>5. That the holy Scriptures are ſo mangled into ſhreds and pieces, in the Epiſtles and Goſpels.</item>
+                     <item>6. That the words of the In<g ref="char:EOLhyphen"/>ſtitution are to be pronounced and repeated to every ſeve<g ref="char:EOLhyphen"/>rall Communicant.</item>
+                     <item>7. That the Churchwardens are appointed to goe about on Communion dayes to gather the devotion of the people in the midſt of divine Service.</item>
+                  </list>
+               </item>
+               <item>9. It contains ſundry things that are ridiculous and ab<g ref="char:EOLhyphen"/>ſurd, and ſuch as no reaſonable ſence can be made of; for
+<list>
+                     <item>1. It commands the reading of ſuch Homilies as ſhall here<g ref="char:EOLhyphen"/>after be ſet forth by publick authority.</item>
+                     <item>2. It commands every pariſhioner to communicate at Ea<g ref="char:EOLhyphen"/>ſter, and alſo to receive the Sacraments and other rit<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</item>
+                     <item>3. It miniſtreth Interogatories to Infants, which their God<g ref="char:EOLhyphen"/>fathers anſwer unto, and ſaith that Infants performe faith and repentance by their Godfathers.</item>
+                     <item>4. It appointeth (in ſome caſes) Baptiſme to bee admini<g ref="char:EOLhyphen"/>ſtred
+<pb n="8" facs="tcp:112262:5"/>conditionally in this forme; If thou be not Baptiſed al<g ref="char:EOLhyphen"/>ready, I Baptiſe thee, in the name of the Father, &amp;c.</item>
+                     <item>5. It requireth that every husband be taught by the Prieſt 10 ſay to his wife (in the ſolemnization of Wedlock) With my body Ithee worſhip.</item>
+                  </list>
+               </item>
+               <item>20. It contains in it ſundry evident contradictions; for
+<list>
+                     <item>1. In the 2 Articl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Rubrick after the Communion, the Miniſter is forbidden to celebrate the Communion, except there be a great number to communicate with him, and in the 3 Article of the ſame Rubrick, he is allowed to cile<g ref="char:EOLhyphen"/>brate it, if there be but three to communicate with him.</item>
+                     <item>2. In one place it i<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſaid that, It is thought good to follow the cuſtome of the old Church (in miniſtring Baptiſme, but twice a yeare) ſo neere us convemently may be, and yet elſe-where, it alloweth Baptiſme to be adminiſtred not onely every day of the yeare in publike, but alſo every houre, either of day or night in privatei</item>
+                     <item>3. In the Ca<g ref="char:EOLhyphen"/>techiſme it is ſaid, there are but two Sacraments, and in ano<g ref="char:EOLhyphen"/>ther place the booke giveth to confirmation whatſoe<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the definition of a Sacrament ſet downe in the Catechiſme) belongs to the nature and eſſence of a Sacrament.</item>
+                     <item>4. In one place it us ſaid, that children ſhould be brought to the Biſhop to he confirmed; ſo ſoon as they can ſay the Lords prayer, the Creed, and the ten Com<g ref="char:EOLhyphen"/>mandements; In another it ſaith, that our cuſtome is agreeable to the uſage of the Church in times paſt, whereby it was ordained, that Confirmation ſhould be miniſtred to them that are of per<g ref="char:EOLhyphen"/>fect age.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed for R. B. 1644.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
